@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+API/env/
+FRONT/late-checker/node_modules/
+__pycache__/
+*.pyc
